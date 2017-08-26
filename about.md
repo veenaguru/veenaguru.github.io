@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{ site.baseurl }}assets/kayak.png" title="Profile Picture" class="profile">
 
 Veena has over 17 years of experience in various aspects of software development life cycle. 13 years of diverse experience in Software Quality Engineering, System Analysis, Design and automated testing of client/server and web-based applications. She has immense passion to learn new technologies and tools.
 
