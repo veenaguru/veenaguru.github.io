@@ -1,4 +1,10 @@
-theme: jekyll-theme-cayman
+# External gems
+gems:
+  - jekyll-sitemap
+
+exclude:
+- "/vendor/"
+
 title: Veena's Home Page!
 subtitle: "Capturing my project updates"
 
