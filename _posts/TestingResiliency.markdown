@@ -5,15 +5,9 @@ author: Veena Gurumurthy
 categories: Testing
 tags: tools
 ---
-<h2>Understanding Resiliency</h2>
-Many tests stop at unit and business use cases workflow with both positive and negative scenarios. In the world of microservices where a webservice depends on many other microservices to accomplish a complex task, building a resilient service is an implicit customer expectation that we need to build in, just like any feature.
-
-First, let's take a look at a few definitions for resiliency.
-
+<h2>What is Resiliency?</h2>
 [Resilience](https://en.wikipedia.org/wiki/Resilience_(network)) (from wikipedia)
  : > Resilience is the ability to provide and maintain an acceptable level of service in the face of faults and challenges to normal operation. 
-
-A great book to read on resiliency is [Release It!](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213) by Michael T. Nygard where he wrote - 
 
 : > A resilient system keeps processing transactions, even when there are transient impulses, persistent stresses, or component failures disrupting normal processing. This is what most people mean when they just say stability. It’s not just that your individual servers or applications stay up and running but rather that the user can still get work done.
 
