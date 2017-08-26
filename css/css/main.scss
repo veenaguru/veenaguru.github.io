@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+// Includes Bourbon, Neat, and Bitters (thanks, thoughtbot!)
+@import
+  "bourbon/bourbon",
+  "base/base",
+  "neat/neat",
+  "layout"
+;
+
+table {
+  table-layout: auto;
+  border: 1px solid #000000;
+  border-collapse: separate;
+  border-spacing: 3px;
+}
+
+table td, table th{
+  padding: 3px 3px;
+  border-collapse: separate;
+}
