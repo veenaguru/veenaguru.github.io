@@ -6,17 +6,11 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Eing Ong
-subtitle: "Capturing my learnings to share and remember"
-#email: eing.ong@intuit.com
+title: Veena Gurumurthy
+subtitle: "Capturing my project Ideas"
+#email: veenagurumurthy@intuit.com
 name: Eing Ong
-description: > 
-  <i>“I must judge for myself,
-   but how can I judge, how can any man judge,
-   unless his mind has been opened and enlarged by reading.”</i>
-  – John Adams
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://eing.github.io" # the base hostname & protocol for your site
+url: "http://veenaguru.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
@@ -44,7 +38,7 @@ permalink:           pretty
 #    tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: eing
+disqus_shortname: veenaguru
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -55,10 +49,8 @@ descriptions:
     desc: "Posts on technology."
 
   - cat: Testing
-    desc: "Posts on software testing."
+    desc: "Posts on testing software."
 
-  - cat: Conferences
-    desc: "Posts on conferences highlights."
 
 # Social icons and sharing options
 #
@@ -76,24 +68,17 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: eingong
-    url: https://twitter.com/eingong
-    desc: Follow me on Twitter
-    share: true
-
   - name: GitHub
     icon: github
-    username: eing
-    url: https://github.com/eing
+    username: veenaguru
+    url: https://github.com/veenaguru
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Eing Ong
-    url: https://www.linkedin.com/in/eingong
+    username: Veena Gurumurthy
+    url: https://www.linkedin.com/in/veena-gurumurthy-470a453
     desc: Connect with me on LinkedIn
     share: true
 
