@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+layout 	title 	permalink
+page
+	
+About
+	
+/about/
 
-You can use the [editor on GitHub](https://github.com/veenaguru/veenaguru.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Veena has over 17 years of experience in various aspects of software development life cycle.   
+She has 13 years of diverse experience in Software Quality Engineering, System Analysis, Design and automated testing of client/server and web-based applications. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Professional summary includes programming in JAVA, J2EE Technologies. Possess strong leadership skills and ability to work collaboratively in a large team environment Excellent Analytical, problem solving skills. Excellent written and communication skills. Veena has a passion to learn new tools!!!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veenaguru/veenaguru.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
